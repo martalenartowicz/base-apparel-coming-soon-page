@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-e2HK-ZGSC7)
+- Live Site URL: [Add live site URL here](https://martalenartowicz.github.io/base-apparel-coming-soon-page/)
 
 ## My process
 
