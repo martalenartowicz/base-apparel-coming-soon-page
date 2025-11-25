@@ -1,7 +1,7 @@
 const input = document.querySelector(".email-input");
 const emailErr = document.querySelector(".email-error");
 const submitBtn = document.getElementById("submit-btn");
-const iconError = document.getElementById("icon-error");
+const iconError = document.querySelector(".icon-error");
 
 submitBtn.addEventListener("click", function (e) {
   e.preventDefault();

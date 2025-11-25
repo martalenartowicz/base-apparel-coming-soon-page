@@ -113,7 +113,7 @@ h1 span {
   padding: 10px;
 }
 
-#icon-error {
+.icon-error {
   position: absolute;
   top: 16%;
   right: 22%;
@@ -229,7 +229,7 @@ footer {
     box-sizing: border-box;
   }
 
-  #icon-error {
+  .icon-error {
     right: 26%;
   }
 
